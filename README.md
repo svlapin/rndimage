@@ -13,7 +13,7 @@ go get github.com/svlapin/rndimage
 ### Generate image
 
 ```
-rndimage 640 480 > test_640x480.jpg
+rndimage gen 640 480 > test_640x480.jpg
 ```
 
 ## License
